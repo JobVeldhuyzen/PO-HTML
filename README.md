@@ -16,10 +16,10 @@ Met dit project leer je:
   - **Regel 1-13**: Dit is de kop van de pagina (head). Hier staat o.a. de titel, informatie over de auteur en wordt het opmaakbestand (style.css) gekoppeld.
   - **Regel 15-47**: Dit is de inhoud van de pagina (body). Hier vind je:
     - **header**: De titel van de website (regel 18-20).
-    - **nav**: Het menu met knoppen om naar andere pagina's te gaan (regel 22-26).
-    - **article**: Uitleg over de WRC en de kampioen (regel 28-33).
-    - **div.wrc4**: Een plaatje van de rally (regel 35-37).
-    - **footer**: Links naar de officiÃ«le WRC website en kalender (regel 39-46).
+    - **nav**: Het menu met knoppen om naar andere pagina's te gaan (regel 25-27).
+    - **article**: Uitleg over de WRC en de kampioen (regel 30-35).
+    - **div.wrc4**: Een plaatje van de rally (regel 37-39).
+    - **footer**: Links naar de officiële WRC website en kalender (regel 42-48).
 
 - **WRC/meer_informatie.html**  
   Op deze pagina vind je extra uitleg over hoe je de WRC kunt winnen en een tabel met winnende teams. Belangrijke delen:
@@ -31,7 +31,7 @@ Met dit project leer je:
 
 - **WRC/tijdlijn.html**  
   Hier staat een tijdlijn met belangrijke gebeurtenissen in de WRC. Belangrijke delen:
-  - **iframe**: Een YouTube-video over rally (regel 17-22).
+  - **iframe**: Een YouTube-video over rally (regel 25-30).
   - **article**: Tekst over de geschiedenis van de WRC, verdeeld in periodes met kopjes en uitleg.
 
 - **WRC/style.css**  
@@ -54,9 +54,5 @@ Met dit project leer je:
 
 - **HTML**: Hiermee zet je tekst, plaatjes en knoppen op de pagina.
 - **CSS**: Hiermee maak je de website mooi met kleuren en lettertypes.
-
-## Vragen?
-
-Heb je vragen? Vraag het aan je docent of stuur een berichtje naar de maker.
 
 Periode 4 Informatica
