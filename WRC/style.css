@@ -1,0 +1,69 @@
+h2, h3, h4, h5, p{
+	color: black;
+	font-family: Verdana;
+	background-color: lightblue;
+}
+
+p{
+	font-size: 14px;
+	background-color: lightblue;
+}
+
+nav{
+	background-color: black;
+	color: white;
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 20px;
+	margin: 0;
+	
+}
+
+.nav{
+	text-decoration: none;
+	color: white;
+}
+
+body{
+	background-color: #e9ffff;
+	margin:0;
+	text-align: center;
+}
+
+header {
+	background-color: ;
+	margin:0;
+	text-align: center;
+}
+
+table{
+	border-collapse: collapse;
+	font-size: 20px;
+}
+
+a:hover{
+	color: blue;
+}
+
+.selected{
+	text-decoration: underline;
+}
+
+div{
+	text-allign: center
+}
+
+#wrapper{
+	margin: auto;
+	width: 900px;
+	background-color: lightblue;
+}
+
+.wrc4{
+	display: flex;
+	justify-content: center;
+}
+
+article{
+	background-color: lightblue;
+}
